@@ -23,7 +23,7 @@ npm install request-as-curl
 
 ## Example
 
-```
+```js
 var curlify = require('request-as-curl'),
     request = require('express'),
     data = {data: 'data'};
@@ -35,7 +35,7 @@ var req = request('http://google.com/', {method: 'POST', json: data}, function (
 });
 ```
 
-```
+```js
 var curlify = require('request-as-curl'),
     app = require('express')();
 
