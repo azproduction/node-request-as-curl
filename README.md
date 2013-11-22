@@ -11,7 +11,7 @@
 [![Dependency Status](https://gemnasium.com/azproduction/request-as-curl.png)]
 (https://gemnasium.com/azproduction/request-as-curl)
 
-Serializes http.ClientRequest as curl(1) command string
+Serializes http.ClientRequest as curl(1) command string 
 
 ## Installation
 
