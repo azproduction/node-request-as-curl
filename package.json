@@ -1,6 +1,6 @@
 {
     "author" : "Mikhail Davydov <i@azproduction.ru>",
-    "description" : "Serializes http.ClientRequest as curl(1) command string",
+    "description" : "It serializes http.ClientRequest as curl(1) command string",
     "name" : "request-as-curl",
     "version" : "0.1.0",
     "contributors" : [
