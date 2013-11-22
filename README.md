@@ -5,8 +5,8 @@
 (https://travis-ci.org/azproduction/node-request-as-curl)
 [![Coverage Status](https://coveralls.io/repos/azproduction/node-request-as-curl/badge.png?branch=master)]
 (https://coveralls.io/r/azproduction/node-request-as-curl)
-[![Dependency Status](https://gemnasium.com/azproduction/request-as-curl.png)]
-(https://gemnasium.com/azproduction/request-as-curl)
+[![Dependency Status](https://gemnasium.com/azproduction/node-request-as-curl.png)]
+(https://gemnasium.com/azproduction/node-request-as-curl)
 
 Serializes http.ClientRequest as curl(1) command string. This is like [Copy as cURL](https://twitter.com/ChromiumDev/status/317183238026186752), but for node.
 
