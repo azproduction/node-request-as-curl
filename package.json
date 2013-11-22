@@ -1,0 +1,36 @@
+{
+    "author" : "Mikhail Davydov <i@azproduction.ru>",
+    "description" : "Serializes http.ClientRequest as curl(1) command string",
+    "name" : "request-as-curl",
+    "version" : "0.1.0",
+    "contributors" : [
+        {
+            "name": "Mikhail Davydov",
+            "email": "i@azproduction.ru"
+        }
+    ],
+    "engines" : {
+        "node": ">= 0.8.0"
+    },
+    "dependencies" : {
+
+    },
+    "devDependencies" : {
+        "jshint": "2.1.3",
+        "mocha": "1.11.0",
+        "jscs": "1.0.0",
+        "istanbul": "0.1.39",
+        "chai": "*",
+        "mocha-istanbul": "*",
+        "coveralls": "*",
+        "express": "*",
+        "json-stringify-safe": "*",
+        "request": "*"
+    },
+    "scripts": {
+        "test" : "make validate",
+        "lint": "make lint",
+        "coverage": "make coverage",
+        "clean": "make clean"
+    }
+}
