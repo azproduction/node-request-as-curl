@@ -2,10 +2,10 @@
 [![NPM Version](https://badge.fury.io/js/request-as-curl.png)]
 (https://npmjs.org/package/request-as-curl)
 
-[![Build Status](https://travis-ci.org/azproduction/request-as-curl.png?branch=master)]
+[![Build Status](https://travis-ci.org/azproduction/node-request-as-curl.png?branch=master)]
 (https://travis-ci.org/azproduction/request-as-curl)
 
-[![Coverage Status](https://coveralls.io/repos/azproduction/request-as-curl/badge.png?branch=master)]
+[![Coverage Status](https://coveralls.io/repos/azproduction/node-request-as-curl/badge.png?branch=master)]
 (https://coveralls.io/r/azproduction/request-as-curl)
 
 [![Dependency Status](https://gemnasium.com/azproduction/request-as-curl.png)]
